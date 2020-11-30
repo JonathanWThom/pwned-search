@@ -8,7 +8,7 @@ Inspired by [https://github.com/mikepound/pwned-search](https://github.com/mikep
 
 Clone it, then:
 ```
-docker build -t pwned
+docker build -t pwned .
 docker run --rm pwned badpassword
 ```
 
